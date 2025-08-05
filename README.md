@@ -1,82 +1,75 @@
-# 👋 Hi, I’m Will — Welcome to My AI Native Journey
+# 👋 Welcome to My GitHub: AI Native Journey
 
-I’m learning how to build tools with AI by actually building them — one project at a time.  
-No tutorials, no theory-only. Just hands-on experiments that get smarter (and more human) as I go.
+Hi, I’m Will — and this is my AI Native Journey.
 
-> From silly games to personal automation to emotionally intelligent companions —  
-> this is my full-stack evolution, powered by curiosity and code.
+In just a few months, I went from writing my first lines of HTML and JavaScript to designing fully interactive web apps that combine AI, automation, and emotional intelligence.
 
----
+I didn’t follow a traditional developer path. I built my skills by solving real problems and learning in public — with AI as a creative partner. This GitHub is the living record of that journey, from basic logic games to emotionally resonant, user-centered apps.
 
-## 🧠 What I’m About
-
-I’m part of the **AI Native movement** — a new generation of builders designing alongside artificial intelligence. I approach every project not just as a coder, but as a creative thinker using AI as a co-pilot, collaborator, and imagination accelerator.
-
-This repo is both my **portfolio** and **journal**, documenting a journey from no-code tinkerer to full-on app developer.
+Each project reflects a stage of growth — technically, creatively, and conceptually. From the playful to the personal, here’s what I’ve made so far:
 
 ---
 
-## 🛠️ Featured Projects
+## 🎮 Killing Time Games _(“Killing Time” = A casual way to stay occupied)_
 
-### 🎮 [Killing Time Games](https://willco8.github.io/AI_Native_Journey/KillingTimeGames/)
+**Live App:** [Play Now](https://willco8.github.io/AI_Native_Journey/KillingTimeGames/)
 
-> **“Mindless games to kill time — without losing your mind.”**
+A suite of mini-games — Rock Paper Scissors, Coin Flip, Odds & Evens — designed for light mental distraction in real-world waiting moments (e.g., at the DMV or hospital). Includes personalized player names, fun modes (e.g., The Rock vs. Toilet Paper), and custom matchup memory.
 
-This was my very first project. A lightweight browser app that includes Rock Paper Scissors, Coin Flip, and Odds & Evens — each with classic, funny, and custom modes. It was my playground for learning HTML, Tailwind CSS, JavaScript logic, localStorage, and DOM manipulation.
-
-This is where I learned how to ship a real product.
+**Stack:** HTML, Tailwind CSS, Vanilla JavaScript, LocalStorage
 
 ---
 
-### 🎬 [Rex: Your Personal Media Vault](https://willco8.github.io/rex-app/)
+## 🎬 Rex _(Rex = RECommendationS Vault)_
 
-> **“Rex” = Recommendations.**  
-> An automation tool for saving and organizing media recommendations — like movies, books, podcasts, and songs — so you never forget who told you what to watch.
+**Live App:** [Rex App](https://willco8.github.io/rex-app/)
 
-Rex is a clean, fast, no-database-needed app that uses localStorage to persist user data. You can filter by type or by person, sort alphabetically, and quickly retrieve gems when you're ready to explore something new.
+Too many podcasts, books, shows, and songs get lost in the void. Rex is a clean, local-storage-powered media vault that lets you instantly log, filter, and sort your cultural recommendations — by type, title, or who recommended it.
 
-This is where I learned how to build useful tools for real-world life.
-
----
-
-### 🤖 [Palomine: Your Personalized AI Companion](https://willco8.github.io/Palomine/)
-
-> **“Palomine” = Pal of Mine.**  
-> A deeply personal app that lets users create emotionally resonant AI personas — like “Mom,” “Coach,” or a lost loved one — and talk to them in real time.
-
-You choose the role, personality traits, name, photo, and shared memories — and Palomine becomes your companion. Powered by Gemini API and styled like iMessage, this app is part grief tech, part life coach, part mirror.  
-
-This is where I learned how to make AI feel human.
+**Stack:** HTML, Tailwind CSS, Vanilla JavaScript, LocalStorage
 
 ---
 
-## 🧪 Learning Projects
+## 📸 FlickHit _(Flick = Picture, Hit = #1 Song)_
 
-### 📡 Firebase Cloud Firestore API Exercise
+**Live App:** [FlickHit](https://willco8.github.io/AI_Native_Journey/FlickHit/)
 
-A short backend exploration using Google’s Firebase platform. I learned how to:
+Upload a photo. The app reads its hidden date metadata and returns the #1 Billboard song from that week. It’s nostalgia with a soundtrack — blending visual memory and cultural context. The name “FlickHit” becomes a verb:  
+> “We saw the photo and just had to FlickHit it.”
 
-- Set up a NoSQL database in Firestore  
-- Create a products collection manually  
-- Retrieve a record using a REST API  
-- Modify security rules for public read access  
-
-This helped me understand dynamic content, backend-as-a-service (BaaS), and secure data interaction.
+**Stack:** HTML, JavaScript, EXIF.js, JSON, GitHub Pages
 
 ---
 
-## 📍 What’s Next?
+## 🤖 Palomine _(Palomine = Pal-of-Mine)_
 
-- Deploy more projects with real APIs  
-- Dive into authentication and full-stack development  
-- Start integrating AI more creatively across tools  
-- Keep refining my craft, one app at a time
+**Live App:** [Coming Soon](https://willco8.github.io/AI_Native_Journey/Palomine/)
+
+A personalized AI companion you don’t just chat with — you bond with. Create a “Mom,” “Coach,” or even a lost loved one with custom traits, photos, and shared memories. Chat threads are private, persistent, and emotionally aligned using Gemini AI.
+
+**Stack:** HTML, Tailwind CSS, Vanilla JavaScript, Gemini API, LocalStorage
 
 ---
 
-## 💬 Let’s Connect
+## 🧪 Firebase Cloud Firestore API Demo _(Learning Project)_
 
-If you’re on a similar journey or just curious, feel free to reach out!  
-You can also explore the rest of this repo to see my full progression.
+**Repo:** [Firebase API Exercise](https://github.com/willco8/firebase-firestore-api-exercise)
 
-> Thanks for visiting — now go build something wild.
+A hands-on learning project to understand how frontend apps interact with NoSQL databases via REST APIs. I set up a Firestore database in test mode, added data manually, then retrieved specific documents using secure API calls.
+
+**Stack:** Firebase, REST API, JSON
+
+---
+
+## 🧠 What’s Next
+
+I’m currently exploring:
+
+- AI agents and multi-turn conversation memory  
+- Cross-app integrations and cloud syncing  
+- Real user feedback and emotional validation
+
+Each new project is more than just code — it’s a step toward building tools that feel personal, useful, and human.
+
+Thanks for visiting.  
+Let’s build something meaningful.
