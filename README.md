@@ -41,6 +41,19 @@ Upload a photo. The app reads its hidden date metadata and returns the #1 Billbo
 
 ---
 
+## 📌 Apple Notes Pin/Unpin Redesign _(UX/UI Design Prototype)_
+
+**Live Prototype:** [View Figma Prototype](https://www.figma.com/make/WwxkA9J5atwMjfCTjaYoi2/Apple-Notes-Pin-Unpin-Redesign?node-id=0-1&p=f&t=Brabhwa47nAekSQU-0&fullscreen=1)
+
+A UX/UI design case study reimagining the “Pin/Unpin” interaction in Apple Notes. Instead of hiding this useful feature in a dropdown menu, this redesign introduces a one-tap icon in the note’s header — making it faster, more intuitive, and more discoverable.
+
+**Framework:** McKinsey problem-solving  
+**Scope:** Static Figma prototype + usability test script  
+**MVP Includes:** Pinned/unpinned states, confirmation toast, user feedback plan  
+**Goal:** Improve in-note efficiency and boost feature usage through visibility and simplicity
+
+---
+
 ## 🤖 Palomine _(Palomine = Pal-of-Mine)_
 
 **Live App:** [Coming Soon](https://willco8.github.io/AI_Native_Journey/Palomine/)
