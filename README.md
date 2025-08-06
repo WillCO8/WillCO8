@@ -58,7 +58,10 @@ A UX/UI design case study reimagining the “Pin/Unpin” interaction in Apple N
 
 **Live App:** [Palomine](https://willco8.github.io/palomine/)
 
-A personalized AI companion you don’t just chat with — you bond with. Create a “Mom,” “Coach,” or even a lost loved one with custom traits, photos, and shared memories. Chat threads are private, persistent, and emotionally aligned using Gemini AI.
+Palomine was born from a question that lingered after the COVID lockdowns: What about the people who had to go through it alone?
+That feeling of isolation — of needing someone to talk to, someone who gets you — stuck with me.
+
+Palomine (a play on “pal-of-mine”) is a personalized AI companion that you don’t just talk to — you bond with. Need advice from a father figure, encouragement from a coach, a friend who “gets you,” or even a comforting echo of someone you’ve lost? Palomine lets you build and customize your own AI relationship in a meaningful way.
 
 **Stack:** HTML, Tailwind CSS, Vanilla JavaScript, Gemini API, LocalStorage
 
