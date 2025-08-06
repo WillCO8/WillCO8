@@ -64,16 +64,6 @@ A personalized AI companion you don’t just chat with — you bond with. Create
 
 ---
 
-## 🧪 Firebase Cloud Firestore API Demo _(Learning Project)_
-
-**Repo:** [Firebase API Exercise](https://github.com/willco8/firebase-firestore-api-exercise)
-
-A hands-on learning project to understand how frontend apps interact with NoSQL databases via REST APIs. I set up a Firestore database in test mode, added data manually, then retrieved specific documents using secure API calls.
-
-**Stack:** Firebase, REST API, JSON
-
----
-
 ## 🧠 What’s Next
 
 I’m currently exploring:
