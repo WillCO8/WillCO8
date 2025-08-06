@@ -26,6 +26,8 @@ My first app. A suite of mini-games — Rock Paper Scissors, Coin Flip, Odds & E
 
 Too many podcasts, books, shows, and songs get lost in the void. Rex is a clean, local-storage-powered media vault that lets you instantly log, filter, and sort your cultural recommendations — by type, title, or who recommended it.
 
+**🎥 Demo Video:** [Watch on Loom](https://www.loom.com/share/8ff137d2426846a2aa6afd04aef742d1?sid=27d35a36-87f5-41f2-bc5d-946915c22f61)
+
 **Stack:** HTML, Tailwind CSS, Vanilla JavaScript, LocalStorage
 
 ---
@@ -37,6 +39,8 @@ Too many podcasts, books, shows, and songs get lost in the void. Rex is a clean,
 Upload a photo. The app reads its hidden date metadata and returns the #1 Billboard song from that week. It’s nostalgia with a soundtrack — blending visual memory and cultural context. The name “FlickHit” becomes a verb:  
 > “We saw the photo and just had to FlickHit it.”
 
+**🎥 Demo Video:** [Watch on Loom](https://www.loom.com/share/f4e0b4f967804b3eb85ba8eefccdc962)
+
 **Stack:** HTML, JavaScript, EXIF.js, JSON, GitHub Pages
 
 ---
@@ -46,6 +50,8 @@ Upload a photo. The app reads its hidden date metadata and returns the #1 Billbo
 **Live Prototype:** [View Figma Prototype](https://www.figma.com/make/WwxkA9J5atwMjfCTjaYoi2/Apple-Notes-Pin-Unpin-Redesign?node-id=0-1&p=f&t=Brabhwa47nAekSQU-0&fullscreen=1)
 
 A UX/UI design case study reimagining the “Pin/Unpin” interaction in Apple Notes. Instead of hiding this useful feature in a dropdown menu, this redesign introduces a one-tap icon in the note’s header — making it faster, more intuitive, and more discoverable.
+
+**🎥 Walkthrough:** [Watch on Loom](https://www.loom.com/share/f7cefff96bbc4cc7886310b404381644?sid=fdb1c07f-3a9b-4227-9d50-4725a8bce7fd)
 
 **Framework:** McKinsey problem-solving  
 **Scope:** Static Figma prototype + usability test script  
@@ -58,10 +64,9 @@ A UX/UI design case study reimagining the “Pin/Unpin” interaction in Apple N
 
 **Live App:** [Palomine](https://willco8.github.io/palomine/)
 
-Palomine was born from a question that lingered after the COVID lockdowns: What about the people who had to go through it alone?
-That feeling of isolation — of needing someone to talk to, someone who gets you — stuck with me.
+A personalized AI companion you don’t just chat with — you bond with. Create a “Mom,” “Coach,” or even a lost loved one with custom traits, photos, and shared memories. Chat threads are private, persistent, and emotionally aligned using Gemini AI.
 
-Palomine (a play on “pal-of-mine”) is a personalized AI companion that you don’t just talk to — you bond with. Need advice from a father figure, encouragement from a coach, a friend who “gets you,” or even a comforting echo of someone you’ve lost? Palomine lets you build and customize your own AI relationship in a meaningful way.
+**🎥 Presentation & Demo:** [Watch on Loom](https://www.loom.com/share/YOUR_PALOMINE_VIDEO_ID)
 
 **Stack:** HTML, Tailwind CSS, Vanilla JavaScript, Gemini API, LocalStorage
 
