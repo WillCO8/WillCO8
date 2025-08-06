@@ -12,9 +12,9 @@ Each project reflects a stage of growth — technically, creatively, and concept
 
 ## 🎮 Killing Time Games _(“Killing Time” = A casual way to stay occupied)_
 
-**Live App:** [Play Now](https://willco8.github.io/AI_Native_Journey/KillingTimeGames/)
+**Live App:** [Play Now](https://willco8.github.io/killing-time-games/)
 
-My first app.  A suite of mini-games — Rock Paper Scissors, Coin Flip, Odds & Evens — designed for light mental distraction in real-world waiting moments (e.g., at the DMV or hospital). Includes personalized player names, fun modes (e.g., The Rock vs. Toilet Paper), and custom matchup memory.
+My first app. A suite of mini-games — Rock Paper Scissors, Coin Flip, Odds & Evens — designed for light mental distraction in real-world waiting moments (e.g., at the DMV or hospital). Includes personalized player names, fun modes (e.g., The Rock vs. Toilet Paper), and custom matchup memory.
 
 **Stack:** HTML, Tailwind CSS, Vanilla JavaScript, LocalStorage
 
@@ -32,7 +32,7 @@ Too many podcasts, books, shows, and songs get lost in the void. Rex is a clean,
 
 ## 📸 FlickHit _(Flick = Picture, Hit = #1 Song)_
 
-**Live App:** [FlickHit](https://willco8.github.io/AI_Native_Journey/FlickHit/)
+**Live App:** [FlickHit](https://willco8.github.io/flickhit/)
 
 Upload a photo. The app reads its hidden date metadata and returns the #1 Billboard song from that week. It’s nostalgia with a soundtrack — blending visual memory and cultural context. The name “FlickHit” becomes a verb:  
 > “We saw the photo and just had to FlickHit it.”
@@ -56,7 +56,7 @@ A UX/UI design case study reimagining the “Pin/Unpin” interaction in Apple N
 
 ## 🤖 Palomine _(Palomine = Pal-of-Mine)_
 
-**Live App:** [Coming Soon](https://willco8.github.io/AI_Native_Journey/Palomine/)
+**Live App:** [Palomine](https://willco8.github.io/palomine/)
 
 A personalized AI companion you don’t just chat with — you bond with. Create a “Mom,” “Coach,” or even a lost loved one with custom traits, photos, and shared memories. Chat threads are private, persistent, and emotionally aligned using Gemini AI.
 
