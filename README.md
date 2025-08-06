@@ -14,7 +14,7 @@ Each project reflects a stage of growth — technically, creatively, and concept
 
 **Live App:** [Play Now](https://willco8.github.io/AI_Native_Journey/KillingTimeGames/)
 
-A suite of mini-games — Rock Paper Scissors, Coin Flip, Odds & Evens — designed for light mental distraction in real-world waiting moments (e.g., at the DMV or hospital). Includes personalized player names, fun modes (e.g., The Rock vs. Toilet Paper), and custom matchup memory.
+My first app.  A suite of mini-games — Rock Paper Scissors, Coin Flip, Odds & Evens — designed for light mental distraction in real-world waiting moments (e.g., at the DMV or hospital). Includes personalized player names, fun modes (e.g., The Rock vs. Toilet Paper), and custom matchup memory.
 
 **Stack:** HTML, Tailwind CSS, Vanilla JavaScript, LocalStorage
 
