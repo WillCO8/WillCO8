@@ -6,11 +6,14 @@ In just a few months, I went from writing my first lines of HTML and JavaScript 
 
 I didn’t follow a traditional developer path. I built my skills by solving real problems and learning in public — with AI as a creative partner. This GitHub is the living record of that journey, from basic logic games to emotionally resonant, user-centered apps.
 
+Projects are listed in the order I built them — from my very first game (Killing Time Games) to my most advanced app (Palomine) — to show my progression in technical skills, design, and storytelling.
+
 ---
 
 ## 🎮 Killing Time Games (“Killing Time” = A casual way to stay occupied)
 
-**A pocket-sized game suite for real-world pauses, not digital war zones.**
+**A pocket-sized game suite for real-world pauses, not digital war zones.**  
+*This was my very first project — the starting point for my AI Native Journey.*
 
 Killing Time Games is a lightweight browser-based app designed for moments when you're stuck waiting — but still want to stay mentally present. If you're about to walk into a job interview, waiting at the hospital for a loved one, or just in one of life’s many pauses, this app gives you a simple way to pass the time without taking your head out of the game of life.
 
