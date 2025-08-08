@@ -6,69 +6,99 @@ In just a few months, I went from writing my first lines of HTML and JavaScript 
 
 I didn’t follow a traditional developer path. I built my skills by solving real problems and learning in public — with AI as a creative partner. This GitHub is the living record of that journey, from basic logic games to emotionally resonant, user-centered apps.
 
-Each project reflects a stage of growth — technically, creatively, and conceptually. From the playful to the personal, here’s what I’ve made so far:
-
 ---
 
-## 🎮 Killing Time Games _(“Killing Time” = A casual way to stay occupied)_
+## 🎮 Killing Time Games (“Killing Time” = A casual way to stay occupied)
+
+**A pocket-sized game suite for real-world pauses, not digital war zones.**
 
 **Live App:** [Play Now](https://willco8.github.io/killing-time-games/)
 
-My first app. A suite of mini-games — Rock Paper Scissors, Coin Flip, Odds & Evens — designed for light mental distraction in real-world waiting moments (e.g., at the DMV or hospital). Includes personalized player names, fun modes (e.g., The Rock vs. Toilet Paper), and custom matchup memory.
+Killing Time Games is a lightweight browser-based app designed for moments when you're stuck waiting — but still want to stay mentally present. If you're about to walk into a job interview, waiting at the hospital for a loved one, or just in one of life’s many pauses, this app gives you a simple way to pass the time without taking your head out of the game of life.
 
-**Stack:** HTML, Tailwind CSS, Vanilla JavaScript, LocalStorage
+No zombies, no explosions — just quick, silly fun with a personal touch. The app features a pure black theme with enhanced visibility, providing a sleek and easy-on-the-eyes experience.
 
----
+It includes three familiar games — **Rock Paper Scissors**, **Coin Flip**, and **Odds & Evens** — each with unique game modes. You can play the classic versions, enjoy themed “Fun” matchups (like The Rock vs. Toilet Paper), or invent your own characters and rules.
 
-## 🎬 Rex _(Rex = RECommendationS Vault)_
+*It’s not about wasting time. It’s about killing time — calmly, cleanly, and on your terms.*
 
-**Live App:** [Rex App](https://willco8.github.io/rex-app/)
-
-Too many podcasts, books, shows, and songs get lost in the void. Rex is a clean, local-storage-powered media vault that lets you instantly log, filter, and sort your cultural recommendations — by type, title, or who recommended it.
-
-**🎥 Demo Video:** [Watch on Loom](https://www.loom.com/share/8ff137d2426846a2aa6afd04aef742d1?sid=27d35a36-87f5-41f2-bc5d-946915c22f61)
-
-**Stack:** HTML, Tailwind CSS, Vanilla JavaScript, LocalStorage
+**Tech Stack:** ![HTML](https://img.shields.io/badge/HTML-5-orange) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-3-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow) ![LocalStorage](https://img.shields.io/badge/Storage-Local-lightgrey)
 
 ---
 
-## 📸 FlickHit _(Flick = Picture, Hit = #1 Song)_
+## 🎬 Rex (Rex = RECommendationS Vault)
 
-**Live App:** [FlickHit](https://willco8.github.io/flickhit/)
+**Your personal vault for movies, shows, music, books, and podcast recommendations.**
+
+**Live App:** [Rex App](https://willco8.github.io/rex-app/)  
+🎥 **Demo Video:** [Watch on Loom](https://www.loom.com/share/8ff137d2426846a2aa6afd04aef742d1?sid=27d35a36-87f5-41f2-bc5d-946915c22f61)  
+[![Rex Demo](https://cdn.loom.com/sessions/thumbnails/8ff137d2426846a2aa6afd04aef742d1-with-play.gif)](https://www.loom.com/share/8ff137d2426846a2aa6afd04aef742d1?sid=27d35a36-87f5-41f2-bc5d-946915c22f61)
+
+In a world overflowing with content, it's often hard to keep up. We get so many amazing recommendations from friends, family, and online sources — for movies, TV shows, music, books, and podcasts — that we inevitably end up forgetting the things that once excited us.
+
+That’s where **Rex** comes in — spelled R-E-X, a play on the word “recommendations.”
+
+Rex is a lightweight, clean, and personal automation tool designed to solve that problem. It’s your private vault for cultural gems — making it effortless to quickly log, organize, and manage media suggestions so you never forget a great one again.
+
+**Tech Stack:** ![HTML](https://img.shields.io/badge/HTML-5-orange) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-3-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow) ![LocalStorage](https://img.shields.io/badge/Storage-Local-lightgrey)
+
+---
+
+## 📸 FlickHit (Flick = Picture, Hit = #1 Song)
+
+**A nostalgia engine that connects your photos to the #1 song from the week they were taken.**
+
+**Live App:** [FlickHit](https://willco8.github.io/flickhit/)  
+🎥 **Demo Video:** [Watch on Loom](https://www.loom.com/share/f4e0b4f967804b3eb85ba8eefccdc962)  
+[![FlickHit Demo](https://cdn.loom.com/sessions/thumbnails/f4e0b4f967804b3eb85ba8eefccdc962-with-play.gif)](https://www.loom.com/share/f4e0b4f967804b3eb85ba8eefccdc962)
 
 Upload a photo. The app reads its hidden date metadata and returns the #1 Billboard song from that week. It’s nostalgia with a soundtrack — blending visual memory and cultural context. The name “FlickHit” becomes a verb:  
-> “We saw the photo and just had to FlickHit it.”
+> “We saw the photo and just had to FlickHit.”
 
-**🎥 Demo Video:** [Watch on Loom](https://www.loom.com/share/f4e0b4f967804b3eb85ba8eefccdc962)
+In the age of digital overload, our photos often become lifeless thumbnails — stripped of the sound, feeling, and cultural atmosphere that surrounded them. People scroll through pictures, but rarely reconnect with the full emotional context of the moment.
 
-**Stack:** HTML, JavaScript, EXIF.js, JSON, GitHub Pages
+There’s no soundtrack. No era. Just pixels.
+
+**Tech Stack:** ![HTML](https://img.shields.io/badge/HTML-5-orange) ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow) ![JSON](https://img.shields.io/badge/Data-JSON-lightgrey) ![GitHub%20Pages](https://img.shields.io/badge/Hosting-GitHub%20Pages-black)
 
 ---
 
-## 📌 Apple Notes Pin/Unpin Redesign _(UX/UI Design Prototype)_
+## 📌 Apple Notes Pin/Unpin Redesign (UX/UI Design Prototype)
 
-**Live Prototype:** [View Figma Prototype](https://www.figma.com/make/WwxkA9J5atwMjfCTjaYoi2/Apple-Notes-Pin-Unpin-Redesign?node-id=0-1&p=f&t=Brabhwa47nAekSQU-0&fullscreen=1)
+**A one-tap pin/unpin feature for faster, more intuitive Apple Notes interaction.**
+
+**Live Prototype:** [View Figma Prototype](https://www.figma.com/make/WwxkA9J5atwMjfCTjaYoi2/Apple-Notes-Pin-Unpin-Redesign?node-id=0-1&p=f&t=JYu6caZqjiFrR8XH-0&fullscreen=1)  
+🎥 **Walkthrough:** [Watch on Loom](https://www.loom.com/share/f7cefff96bbc4cc7886310b404381644?sid=fdb1c07f-3a9b-4227-9d50-4725a8bce7fd)  
+[![Apple Notes Redesign Demo](https://cdn.loom.com/sessions/thumbnails/f7cefff96bbc4cc7886310b404381644-with-play.gif)](https://www.loom.com/share/f7cefff96bbc4cc7886310b404381644?sid=fdb1c07f-3a9b-4227-9d50-4725a8bce7fd)
 
 A UX/UI design case study reimagining the “Pin/Unpin” interaction in Apple Notes. Instead of hiding this useful feature in a dropdown menu, this redesign introduces a one-tap icon in the note’s header — making it faster, more intuitive, and more discoverable.
-
-**🎥 Walkthrough:** [Watch on Loom](https://www.loom.com/share/f7cefff96bbc4cc7886310b404381644?sid=fdb1c07f-3a9b-4227-9d50-4725a8bce7fd)
 
 **Framework:** McKinsey problem-solving  
 **Scope:** Static Figma prototype + usability test script  
 **MVP Includes:** Pinned/unpinned states, confirmation toast, user feedback plan  
 **Goal:** Improve in-note efficiency and boost feature usage through visibility and simplicity
 
+**Tech Stack:** ![Figma](https://img.shields.io/badge/Design-Figma-pink) ![UX](https://img.shields.io/badge/Focus-UX%2FUI-blue) ![McKinsey](https://img.shields.io/badge/Framework-McKinsey-lightgrey)
+
 ---
 
-## 🤖 Palomine _(Palomine = Pal-of-Mine)_
+## 🤖 Palomine (Palomine = Pal-of-Mine)
 
-**Live App:** [Palomine](https://willco8.github.io/palomine/)
+**A personalized AI companion that feels human, not scripted.**
 
-A personalized AI companion you don’t just chat with — you bond with. Create a “Mom,” “Coach,” or even a lost loved one with custom traits, photos, and shared memories. Chat threads are private, persistent, and emotionally aligned using Gemini AI.
+**Live App:** [Palomine](https://willco8.github.io/palomine/)  
+🎥 **Presentation & Demo:** [Watch on Loom](https://www.loom.com/share/77840ae5297f4ac49de63697079de0d3)  
+[![Palomine Demo](https://cdn.loom.com/sessions/thumbnails/77840ae5297f4ac49de63697079de0d3-with-play.gif)](https://www.loom.com/share/77840ae5297f4ac49de63697079de0d3)
 
-**🎥 Presentation & Demo:** [Watch on Loom](https://www.loom.com/share/YOUR_PALOMINE_VIDEO_ID)
+In a world filled with generic bots and impersonal tech, **Palomine** offers something warmer, wiser, and more human.
 
-**Stack:** HTML, Tailwind CSS, Vanilla JavaScript, Gemini API, LocalStorage
+Palomine (a play on “pal-of-mine”) is a personalized AI companion that you don’t just talk to — you **bond** with. Need advice from a father figure, encouragement from a coach, a friend who “gets you,” or even a comforting echo of someone you’ve lost? Palomine lets you build and customize your own AI relationship in a meaningful way.
+
+You choose the type of connection — Mom, Dad, BFF, Coach, Mentor, Lost Loved One, or even a custom role; upload a photo — then define the personality and shared memories to shape the relationship.
+
+Whether you’re seeking a spark of motivation, emotional support, or just someone to talk to, **Palomine** meets you there.
+
+**Tech Stack:** ![HTML](https://img.shields.io/badge/HTML-5-orange) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-3-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow) ![Gemini%20API](https://img.shields.io/badge/API-Gemini-purple) ![LocalStorage](https://img.shields.io/badge/Storage-Local-lightgrey)
 
 ---
 
@@ -76,11 +106,11 @@ A personalized AI companion you don’t just chat with — you bond with. Create
 
 I’m currently exploring:
 
-- AI agents and multi-turn conversation memory  
-- Cross-app integrations and cloud syncing  
-- Real user feedback and emotional validation
+* AI agents and multi-turn conversation memory
+* Cross-app integrations and cloud syncing
+* Real user feedback and emotional validation
 
 Each new project is more than just code — it’s a step toward building tools that feel personal, useful, and human.
 
 Thanks for visiting.  
-Let’s build something meaningful.
+**Let’s build something meaningful.**
