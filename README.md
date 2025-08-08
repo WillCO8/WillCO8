@@ -1,9 +1,9 @@
 # 👋 Welcome to My GitHub: AI Native Journey
 
-Hi, I’m Will — and this is my AI Native Journey.  
+Hi, I’m Will, and this is my AI Native Journey.  
 In just a few months, I went from writing my first lines of HTML and JavaScript to designing fully interactive web apps that combine AI, automation, and emotional intelligence.  
-I didn’t follow a traditional developer path. I built my skills by solving real problems and learning in public — with AI as a creative partner. This GitHub is the living record of that journey, from basic logic games to emotionally resonant, user-centered apps.  
-Each project reflects a stage of growth — technically, creatively, and conceptually. From the playful to the personal, here’s what I’ve made so far.  
+I didn’t follow a traditional developer path. I built my skills by solving real problems and learning in public, with AI as a creative partner. This GitHub is the living record of that journey, from basic logic games to emotionally resonant, user-centered apps.  
+Each project reflects a stage of growth, technically, creatively, and conceptually. From the playful to the personal, here’s what I’ve made so far.  
 
 ---
 
